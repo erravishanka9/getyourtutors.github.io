@@ -11,9 +11,9 @@ box-sizing:border-box;
  }
 
  header{
- 	background-image: linear-gradient url(C:\Users\errav\OneDrive\Desktop\website\bg.jpeg);
+ 	background-image: linear-gradient url(bg.jpeg);
     background-size: cover;
-    background-color: #254117;
+   
     background-repeat:no-repeat; 
     
     height: 100vh;
