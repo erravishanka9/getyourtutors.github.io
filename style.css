@@ -10,15 +10,7 @@ box-sizing:border-box;
  	color: white; 
  }
 
- header{
- 	background-image: linear-gradient url(bg.jpeg);
-    background-size: cover;
-   
-    background-repeat:no-repeat; 
-    
-    height: 100vh;
 
- } 
  .clearfix:after{
     content: ".";
  	visibility: hidden;
@@ -102,12 +94,43 @@ h1{
 
 .btn-full{
 
-	background-color: transparent;
+	background-color:tomato;
+	color: #ffffff;
+	margin-right: 15px;
+	border:1px solid #bf55ec ;
+}
+.btn-fully{
+
+	background-color:green;
+	color: #ffffff;
+	margin-right: 15px;
+	border:1px solid #bf55ec ;
+}
+.btn-full{
+
+	background-color:tomato;
+	color: #ffffff;
+	margin-right: 15px;
+	border:1px solid #bf55ec ;
+}
+.btn-fulll{
+
+	background-color:gray;
 	color: #ffffff;
 	margin-right: 15px;
 	border:1px solid #bf55ec ;
 }
 .btn-full:hover{
+
+	background-color: #bf55ec ;
+	 
+}
+.btn-fully:hover{
+
+	background-color: #bf55ec ;
+	 
+}
+.btn-fulll:hover{
 
 	background-color: #bf55ec ;
 	 
